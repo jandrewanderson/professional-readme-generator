@@ -2,7 +2,7 @@
 
 ## Description
 
-text
+The purpose of this project was to create a program using node.js to allow the user to easily create a professional README file. This project utilizes the prompt method to allow the user to input their responses and have those responses automatically populate the README file in the appropriate section.
 
 ## Table of Contents
 
@@ -22,7 +22,13 @@ text
 
 ## Installation
 
+Simply download the file from my github repo. After that, open the terminal for the folder that you copied from my repo. Once the terminal is open, type npm install. This will allow you to have all of the necessary packages to run my program (ie. Inquirer). 
+
 ## Usage
+
+Open the terminal in this folder. Type node index.js to begin the prompt. Go through all of the questions for each section that you would like to add content for in the README file that you are creating. Once complete you should have a README file.
+
+If you have other Questions you can refer to the video or refer to my GitHub profile.
 
 ## Video
 
