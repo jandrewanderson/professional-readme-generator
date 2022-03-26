@@ -32,7 +32,13 @@ If you have other Questions you can refer to the video or refer to my GitHub pro
 
 ## Video
 
-![Video of Usage]()
+<!-- ![Video of Usage](./video/video.mp4)
+
+![Video of Usage](https://drive.google.com/file/d/1-gh3GDXx8ucv7hfIsMZp426zaMLUJBvz/view) -->
+
+https://drive.google.com/file/d/1-gh3GDXx8ucv7hfIsMZp426zaMLUJBvz/view
+
+![Gif of Usage](./video/gif.gif)
 
 ## Link to the GitHub
 
